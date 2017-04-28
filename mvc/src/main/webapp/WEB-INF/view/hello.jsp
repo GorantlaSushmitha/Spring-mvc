@@ -4,7 +4,7 @@
       <title>hello</title>
    </head>
    <body>
-   <p>hi</p>
+   
      ${message}
    </body>
 </html> 
